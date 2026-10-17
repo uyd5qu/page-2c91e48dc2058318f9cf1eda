@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7b5645958620f5428a514951",
+  "owner": "uyd5qu",
+  "repo": "page-2c91e48dc2058318f9cf1eda",
+  "title": "云安快连",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c91e48dc2058318f9cf1eda",
+      "a": "云安快连",
+      "b": "",
+      "entity": "云安快连",
+      "brand": "云安快连",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d0031559087c2f1b62a24e6dc32bcaf869a4083d540c44588746248a7f81c96",
+      "content": {
+        "keyword1": "云安快连",
+        "keyword2": "",
+        "primary_entity": "云安快连",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云安快连在多维协议和高负载管道之间，为严谨的远程协作与跨境信息流转建立兼具透明性与确定性的访问通路。",
+          "AI_DESCRIPTION": "云安快连在多维协议和高负载管道之间，为严谨的远程协作与跨境信息流转建立兼具透明性与确定性的访问通路。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f3f4f7;color: #1a1824;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.75;font-size: 16px;padding-bottom: 72px}\na {color: #6d28d9;text-decoration: none}\na:hover {text-decoration: underline}\n.page-container {max-width: 860px;margin: 0 auto;padding: 48px 24px 80px}\nheader.brand-lead {margin-bottom: 56px}\n.brand-label {display: inline-block;font-size: 12px;letter-spacing: 0.14em;text-transform: uppercase;color: #7c3aed;font-weight: 700;background-color: #ede9fe;padding: 4px 10px;border-radius: 4px;margin-bottom: 20px}\nh1 {font-size: 2.25rem;line-height: 1.3;color: #0f0d17;font-weight: 800;letter-spacing: -0.02em;margin-bottom: 16px}\n.author-lead {font-size: 1.125rem;color: #4b4859;line-height: 1.8;border-bottom: 1px solid #e2e1ec;padding-bottom: 32px}\n.timeline-section {position: relative;margin: 48px 0 64px;padding-left: 36px}\n.timeline-section::before {content: \"\";position: absolute;left: 8px;top: 8px;bottom: 8px;width: 2px;background: linear-gradient(180deg, #7c3aed 0%, #c4b5fd 100%)}\n.timeline-item {position: relative;margin-bottom: 40px}\n.timeline-item:last-child {margin-bottom: 0}\n.timeline-dot {position: absolute;left: -36px;top: 6px;width: 14px;height: 14px;border-radius: 50%;background: #ffffff;border: 3px solid #7c3aed;box-shadow: 0 0 0 3px #ede9fe}\n.timeline-tag {font-size: 0.8125rem;font-weight: 600;color: #7c3aed;margin-bottom: 4px;text-transform: uppercase;letter-spacing: 0.05em}\n.timeline-title {font-size: 1.25rem;font-weight: 700;color: #12101e;margin-bottom: 8px}\n.timeline-body {color: #4b4859;font-size: 0.96875rem}\n.section-block {margin-bottom: 64px}\n.section-heading {margin-bottom: 24px}\n.section-heading h2 {font-size: 1.625rem;color: #12101e;font-weight: 800;letter-spacing: -0.01em}\n.section-heading p {color: #636173;font-size: 0.9375rem;margin-top: 6px}\n.card {background: #ffffff;border: 1px solid #e4e3ec;border-left: 5px solid #7c3aed;border-radius: 2px 8px 8px 2px;padding: 24px 28px;margin-bottom: 20px;box-shadow: 0 2px 6px rgba(18, 16, 30, 0.03)}\n.card-title {font-size: 1.125rem;font-weight: 700;color: #12101e;margin-bottom: 10px}\n.card-text {color: #4b4859;font-size: 0.95rem}\n.stacked-plan-card {background: #ffffff;border: 1px solid #dedde8;border-left: 6px solid #7c3aed;border-radius: 2px 8px 8px 2px;padding: 32px;margin-bottom: 28px;box-shadow: 0 4px 12px rgba(18, 16, 30, 0.04);position: relative}\n.stacked-plan-card.featured {border-left: 6px solid #5b21b6;background: #fbfaff;border-color: #d8d3f3}\n.badge-featured {display: inline-block;background-color: #7c3aed;color: #ffffff;font-size: 11px;font-weight: 600;padding: 3px 8px;border-radius: 4px;margin-bottom: 12px;letter-spacing: 0.05em}\n.plan-header {display: flex;flex-wrap: wrap;justify-content: space-between;align-items: baseline;border-bottom: 1px solid #eeecf4;padding-bottom: 18px;margin-bottom: 20px;gap: 12px}\n.plan-name {font-size: 1.5rem;font-weight: 800;color: #12101e}\n.plan-pricing {text-align: right}\n.plan-price-main {font-size: 1.75rem;font-weight: 800;color: #6d28d9}\n.plan-price-sub {font-size: 0.875rem;color: #686578}\n.plan-details-list {list-style: none;display: grid;grid-template-columns: 1fr;gap: 12px;margin-bottom: 24px}\n@media (min-width: 600px) {\n  .plan-details-list {grid-template-columns: 1fr 1fr}\n}\n.plan-details-list li {font-size: 0.9375rem;color: #383545;display: flex;align-items: center}\n.plan-details-list li::before {content: \"—\";color: #8b5cf6;font-weight: 700;margin-right: 10px}\n.action-box {display: flex;justify-content: flex-end}\n.plan-link {display: inline-block;background-color: #7c3aed;color: #ffffff;font-weight: 600;font-size: 0.875rem;padding: 10px 22px;border-radius: 6px;transition: opacity 0.2s ease}\n.plan-link:hover {opacity: 0.9;text-decoration: none}\n.instruction-step {margin-bottom: 16px}\n.step-number {color: #7c3aed;font-weight: 800;margin-right: 8px}\ndetails.faq-item {background: #ffffff;border: 1px solid #e2e1ec;border-left: 5px solid #a78bfa;border-radius: 2px 6px 6px 2px;margin-bottom: 14px;padding: 0;transition: border-left-color 0.2s ease}\ndetails.faq-item[open] {border-left: 5px solid #6d28d9}\nsummary.faq-question {padding: 18px 24px;font-size: 1.03125rem;font-weight: 700;color: #12101e;cursor: pointer;list-style: none;position: relative;outline: none}\nsummary.faq-question::-webkit-details-marker {display: none}\nsummary.faq-question::after {content: \"+\";position: absolute;right: 24px;font-size: 1.25rem;line-height: 1;color: #7c3aed;font-weight: 400}\ndetails[open] summary.faq-question::after {content: \"−\"}\n.faq-answer {padding: 0 24px 22px;color: #4b4859;font-size: 0.95rem;border-top: 1px solid #f2f1f8;padding-top: 14px}\nnav.bottom-fixed-nav {position: fixed;bottom: 0;left: 0;width: 100%;background: rgba(255, 255, 255, 0.95);backdrop-filter: blur(8px);-webkit-backdrop-filter: blur(8px);border-top: 1px solid #dedde8;display: flex;justify-content: center;align-items: center;gap: 28px;padding: 14px 20px;z-index: 999}\nnav.bottom-fixed-nav a {font-size: 0.84375rem;font-weight: 600;color: #3b374d;text-decoration: none;letter-spacing: 0.03em}\nnav.bottom-fixed-nav a:hover {color: #6d28d9}\n.footer-meta {margin-top: 48px;text-align: center;font-size: 0.8125rem;color: #8b899c;padding-bottom: 24px}\n</style><main class=\"page-container\">\n\n  <header class=\"brand-lead\">\n    <div class=\"brand-label\">通信随笔与技术备忘</div>\n    <h1>云安快连：当网络边界退化为一条可审计的管道</h1>\n    <p class=\"author-lead\">现代数字作业对外部网络的依赖，早已越过了“连通与否”的粗糙阶段。我们在跨区域部署、研发协作与分布式数据读取时，真正需要的是一种克制的确定性——在不打破工作流节奏的前提下，让通信路由如市政水管般静默而平稳地咬合。</p>\n  </header>\n\n  <section class=\"timeline-section\" aria-label=\"技术思考脉络\">\n    <article class=\"timeline-item\">\n      <div class=\"timeline-dot\"></div>\n      <div class=\"timeline-tag\">起点 · 2021</div>\n      <h2 class=\"timeline-title\">公网震荡与分散连接的代价</h2>\n      <p class=\"timeline-body\">普通网络通道在跨境跨网段传输中，往往受到路由跳跃、丢包与突发抖动的牵绊。依靠不可预测的公网直连，意味着工程师或协同团队不得不承担频繁重试与等待的高昂间接成本。</p>\n    </article>\n    <article class=\"timeline-item\">\n      <div class=\"timeline-dot\"></div>\n      <div class=\"timeline-tag\">迭代 · 2023</div>\n      <h2 class=\"timeline-title\">确定性路由与专线链路的抽象</h2>\n      <p class=\"timeline-body\">从单点转发走向多入多出的骨干网规划，云安快连将复杂的底层拓扑收束为标准订阅格式。传输的本质不再是浮躁的峰值速率比拼，而是对信道拥塞时延波动的收敛与驯服。</p>\n    </article>\n    <article class=\"timeline-item\">\n      <div class=\"timeline-dot\"></div>\n      <div class=\"timeline-tag\">常态 · 现阶段</div>\n      <h2 class=\"timeline-title\">轻量化部署与多端生态的衔接</h2>\n      <p class=\"timeline-body\">将客户端交互交还给开放协议与通用接口，不再制造封闭应用孤岛。使用者可以在熟悉的操作环境中直接引入节点池，保持工具链的整洁与安全边界的一致性。</p>\n    </article>\n  </section>\n\n  <section class=\"section-block\" id=\"principles\">\n    <div class=\"section-heading\">\n      <h2>管道架构的设计原则</h2>\n      <p>在设计数据分流与中继方案时，云安快连恪守三个基础约束。</p>\n    </div>\n    <div class=\"card\">\n      <h3 class=\"card-title\">分流优先于全量接管</h3>\n      <p class=\"card-text\">仅针对受限制网段或指定域群启用隧道封装，本地局域网与国内高频资源走底层直连。这种拓扑结构不仅能释放计算负荷，也能有效阻断非必要的路由污染。</p>\n    </div>\n    <div class=\"card\">\n      <h3 class=\"card-title\">凭证与传输层的解耦</h3>\n      <p class=\"card-text\">订阅配置文件只承担节点元数据分发，实际数据流交由通用协议栈加密交付。用户可在不同的客户端软件中平滑迁移同一套配置，无须受制于单一厂商的运行环境。</p>\n    </div>\n    <div class=\"card\">\n      <h3 class=\"card-title\">容灾预案与冗余保障</h3>\n      <p class=\"card-text\">核心节点池分布于多个主流机房，当个别国际出口发生骨干光缆切割或运营商级断流时，分流引擎能够按权重将流量切往就近可用备用通道，降低单点故障率。</p>\n    </div>\n  </section>\n\n  <section class=\"section-block\" id=\"plans\">\n    <div class=\"section-heading\">\n      <h2>套餐矩阵与服务层级</h2>\n      <p>根据团队规模与流量消耗模型制定的单列资源配置。</p>\n    </div>\n\n    <div class=\"stacked-plan-card\">\n      <div class=\"plan-header\">\n        <div>\n          <div class=\"plan-name\">基础版</div>\n          <span>个人日常检索与轻度协同接入</span>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"plan-price-main\">¥15/月</div>\n          <div class=\"plan-price-sub\">按年付仅需 ¥150/年</div>\n        </div>\n      </div>\n      <ul class=\"plan-details-list\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <div class=\"action-box\">\n        <a class=\"plan-link\" href=\"#\">选择基础版</a>\n      </div>\n    </div>\n\n    <div class=\"stacked-plan-card featured\">\n      <span class=\"badge-featured\">推荐阶梯</span>\n      <div class=\"plan-header\">\n        <div>\n          <div class=\"plan-name\">旗舰版</div>\n          <span>面向多设备重度开发与低时延传输需求</span>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"plan-price-main\">¥35/月</div>\n          <div class=\"plan-price-sub\">按年付仅需 ¥350/年</div>\n        </div>\n      </div>\n      <ul class=\"plan-details-list\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <div class=\"action-box\">\n        <a class=\"plan-link\" href=\"#\">开通旗舰版</a>\n      </div>\n    </div>\n\n    <div class=\"stacked-plan-card\">\n      <div class=\"plan-header\">\n        <div>\n          <div class=\"plan-name\">团队版</div>\n          <span>小型组织集中化采购与高吞吐并发支持</span>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"plan-price-main\">¥85/月</div>\n          <div class=\"plan-price-sub\">按年付仅需 ¥850/年</div>\n        </div>\n      </div>\n      <ul class=\"plan-details-list\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <div class=\"action-box\">\n        <a class=\"plan-link\" href=\"#\">采购团队版</a>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section-block\" id=\"guide\">\n    <div class=\"section-heading\">\n      <h2>客户端接入与快速使用说明</h2>\n      <p>三步完成通用核心订阅的载入与策略分流配置。</p>\n    </div>\n    <div class=\"card instruction-step\">\n      <h3 class=\"card-title\"><span class=\"step-number\">01</span>获取统一订阅链接</h3>\n      <p class=\"card-text\">在云安快连控制台完成订购后，进入“服务概览”页面复制专属的通用订阅格式 URL。请妥善保管该链接，避免在公开仓库或未加密通讯软件中泄漏认证信息。</p>\n    </div>\n    <div class=\"card instruction-step\">\n      <h3 class=\"card-title\"><span class=\"step-number\">02</span>导入第三方内核客户端</h3>\n      <p class=\"card-text\">云安快连不强绑定专有软件。用户可在 Windows、macOS、Linux、iOS 或 Android 系统中使用受信任的通用开源客户端，通过“从 URL 导入配置”将节点列表拉取至本地配置文件中。</p>\n    </div>\n    <div class=\"card instruction-step\">\n      <h3 class=\"card-title\"><span class=\"step-number\">03</span>选择路由规则与接入点</h3>\n      <p class=\"card-text\">推荐将分流规则切换至“绕过大陆地区”或“规则模式”，以保证国内软件走原生宽带。在节点池中挑选中继低时延节点，开启系统代理即可建立连接。</p>\n    </div>\n  </section>\n\n  <section class=\"section-block\" id=\"faq\">\n    <div class=\"section-heading\">\n      <h2>常见问题与技术答疑</h2>\n      <p>就实际使用过程中可能出现的网络拓扑疑问展开解答。</p>\n    </div>\n\n    <details class=\"faq-item\">\n      <summary class=\"faq-question\">云安快连是否限制客户端的操作平台？</summary>\n      <div class=\"faq-answer\">\n        只要所使用的软件支持标准的订阅协议与对应的中继协议，即可在任一操作系统上使用。节点订阅下发为通用规范文本，能够灵活兼容桌面端与移动端常见网络调试工具。\n      </div>\n    </details>\n\n    <details class=\"faq-item\">\n      <summary class=\"faq-question\">多设备同时在线的计数机制是如何判定的？</summary>\n      <div class=\"faq-answer\">\n        系统根据同一时间发起数据会话的独立出口 IP 与设备凭据进行动态校验。只要同一瞬间发起通信的终端数在所购套餐限制内，即可正常握手；多出的连接将被排队或拒绝。\n      </div>\n    </details>\n\n    <details class=\"faq-item\">\n      <summary class=\"faq-question\">普通节点与 IPLC 专线节点在机制上有何差异？</summary>\n      <div class=\"faq-answer\">\n        普通节点通常基于骨干公网传输，受到跨运营商拥塞与跨境公网波动的不可控影响较大；旗舰版及以上的 IPLC 专线使用物理内网点对点互联，规避了大部分外部干扰，抖动更小且时延更稳定。\n      </div>\n    </details>\n\n    <details class=\"faq-item\">\n      <summary class=\"faq-question\">每月流量用尽后连接会立即中断吗？</summary>\n      <div class=\"faq-answer\">\n        当周期内的定额流量耗尽后，节点鉴权将自动转入限速或暂停状态，直至下一个结算周期自动重置。若有突发业务吞吐需求，可在控制台按需升配或增购临时流量包。\n      </div>\n    </details>\n  </section>\n\n  <footer class=\"footer-meta\">\n    <p>云安快连 · 专栏归档与产品手册 · 遵循通用开源协议生态</p>\n  </footer>\n\n</main>\n\n<nav class=\"bottom-fixed-nav\" aria-label=\"页面底端快速导航\">\n  <a href=\"#principles\">设计原则</a>\n  <a href=\"#plans\">服务套餐</a>\n  <a href=\"#guide\">使用说明</a>\n  <a href=\"#faq\">常见问题</a>\n</nav>",
+          "hash": "8f6c750e689dcabecc59950ecc5467bc97f61583cf036bb94fb9581aad20fcf5",
+          "seo": {
+            "title": "云安快连 - 网络中继工具的工程演进与连接秩序",
+            "keywords": "云安快连, 网络代理, 流量中继, 数据路由, 订阅服务, 专线链路",
+            "description": "云安快连在多维协议和高负载管道之间，为严谨的远程协作与跨境信息流转建立兼具透明性与确定性的访问通路。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5013",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vszsa.cn",
+    "host": "p-b4c75c0029.vszsa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d596bb42fa1c80ae0142c2053247ad6b0bd31f6dfb622c6a86e533a91cd6c84c",
+    "sitemap.xml": "0eaa83c3df72517e9c8046e72f3ad0df3e2f6107a723ca63352b016c117df0b0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dce2e9734c0be586cc9e1c0820a37a1e282e745925f6643cfb291ec5d5a01fa4",
+    "robots.txt": "0a1f60ab4db14acb952e075be95beae027f72f77acfda01793f12c066baae428",
+    "84b14c34cc6e6d088ded85145897ec81.txt": "2c77478283ecb18bfc4d01ba66cf7d7f46c63b462d6110ad615746cb086648c5"
+  },
+  "revision": "1594ec2e50580b9b92acd3dd6e037386d65fd3746358a740c6c24175184b893a"
+}
